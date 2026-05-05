@@ -98,9 +98,9 @@ streamlit run app.py
 ## 📸 Screenshots
 
 * Login Page UI
-  <a href="https://github.com/Bharati-M/heart-disease-prediction-app/blob/main/Screenshots/login%20page.jpeg"></a>
+  <a href="https://github.com/Bharati-M/heart-disease-prediction-app/blob/main/Screenshots/login%20page.jpeg"> </a>
 * Prediction Dashboard
-  <a href="https://github.com/Bharati-M/heart-disease-prediction-app/blob/main/Screenshots/main%20page.png"></a>
+  <a href="https://github.com/Bharati-M/heart-disease-prediction-app/blob/main/Screenshots/main%20page.png"> </a>
 * PDF Report
 
 *(Add screenshots here for better presentation)*
