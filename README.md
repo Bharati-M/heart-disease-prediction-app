@@ -98,6 +98,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 * Login Page UI
+  <a href="https://github.com/Bharati-M/HR-Dashboard/blob/main/HR%20Dashboard.pbix">View Dashboard</a>
 * Prediction Dashboard
 * PDF Report
 
